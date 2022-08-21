@@ -1,0 +1,24 @@
+{
+  "name": "tech-blog-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiajie-he/tech-blog-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiajie-he/tech-blog-app/issues"
+  },
+  "homepage": "https://github.com/jiajie-he/tech-blog-app#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.18.1"
+  }
+}
